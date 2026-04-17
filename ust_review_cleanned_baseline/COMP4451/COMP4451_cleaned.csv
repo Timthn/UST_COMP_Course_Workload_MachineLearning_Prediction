@@ -1,0 +1,4 @@
+﻿rating_workload,has_midterm,has_final,has_quiz,has_assignment,has_essay,has_project,has_attendance,has_reading,has_presentation,course_name,level,upvote_ratio,insturctor_rating
+5,True,False,False,False,True,True,True,False,True,COMP4451,4000,,
+4,False,True,False,False,False,True,True,False,False,COMP4451,4000,,
+2,False,True,False,False,False,True,True,False,False,COMP4451,4000,0.0,

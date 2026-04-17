@@ -1,0 +1,15 @@
+﻿rating_workload,has_midterm,has_final,has_quiz,has_assignment,has_essay,has_project,has_attendance,has_reading,has_presentation,course_name,level,upvote_ratio,insturctor_rating
+5,True,True,False,True,False,False,False,False,False,COMP3711H,3000,,11
+5,True,True,False,True,False,False,False,False,False,COMP3711H,3000,,11
+5,True,True,False,True,False,False,False,False,False,COMP3711H,3000,1.0,11
+5,True,True,False,True,False,False,False,False,False,COMP3711H,3000,1.0,11
+1,True,True,False,True,False,False,False,False,False,COMP3711H,3000,0.03333333333333333,11
+1,True,True,False,True,False,False,False,False,False,COMP3711H,3000,0.8,11
+1,True,True,False,True,False,False,False,True,False,COMP3711H,3000,0.6666666666666666,11
+3,True,True,False,True,False,False,False,False,False,COMP3711H,3000,0.8571428571428571,11
+3,True,True,False,True,False,False,False,False,False,COMP3711H,3000,1.0,11
+4,False,True,False,True,False,False,False,False,False,COMP3711H,3000,0.0,11
+2,True,True,False,True,False,False,False,False,False,COMP3711H,3000,1.0,11
+3,False,True,False,True,False,False,False,False,False,COMP3711H,3000,0.0,11
+3,False,True,False,True,False,False,False,False,False,COMP3711H,3000,1.0,11
+3,True,True,False,True,False,False,False,False,False,COMP3711H,3000,1.0,11

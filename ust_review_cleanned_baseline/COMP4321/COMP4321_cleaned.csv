@@ -1,0 +1,7 @@
+﻿rating_workload,has_midterm,has_final,has_quiz,has_assignment,has_essay,has_project,has_attendance,has_reading,has_presentation,course_name,level,upvote_ratio,insturctor_rating
+3,False,True,True,False,False,True,True,False,False,COMP4321,4000,0.9285714285714286,0
+3,True,True,False,True,False,True,True,False,True,COMP4321,4000,1.0,0
+5,True,True,False,False,False,True,True,False,False,COMP4321,4000,0.0,0
+2,True,True,False,True,False,True,True,True,False,COMP4321,4000,0.8571428571428571,0
+3,True,True,False,True,False,True,True,False,False,COMP4321,4000,1.0,0
+4,True,True,False,True,False,True,False,True,False,COMP4321,4000,0.0,0

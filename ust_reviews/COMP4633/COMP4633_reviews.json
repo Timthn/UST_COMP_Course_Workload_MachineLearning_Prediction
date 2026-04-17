@@ -1,0 +1,78 @@
+[
+    {
+        "hash": "KGRi1VhqIjaElavH4p3J3FhswVEwlrRy",
+        "semester": "2022-23 Fall",
+        "instructors": [
+            {
+                "id": 799,
+                "name": "LAM, Ngok",
+                "rating": 1
+            }
+        ],
+        "is_author": false,
+        "author": "TrebledJ",
+        "date": "Jan 25, 2023",
+        "title": "Rare opportunity to teach, design challenges, and participate in CTFs with other experienced students",
+        "comment_content": "This course is tightly linked to COMP2633; you’ll be teaching students in that course.<br /><br />Not much cybersecurity knowledge is introduced. If it is, it would be mostly self-taught. Some things you might pick up are:<br /><br />- Presentation skills <br />- How to design CTF challenges (depends on which area)<br />- How to use Docker (for hosting certain challenges)<br />- Friends/Acquaintances<br /><br />If you get invited, then definitely consider enrolling.",
+        "comment_teaching": "Regular weekly meetings from 21:30-22:30 to prepare for the upcoming COMP2633 lessons, update the team on CTF developments, listen to ASMR sounds from your teammates eating dinner, and whatnot.<br /><br />Pretty chill overall. Alex is rather organised and makes sure everyone is up to speed, even reminding students to join the meeting—in case some forget.",
+        "comment_grading": "Two main components: teaching + CTFs. Attendance in meetings and assigned sessions are also important.<br /><br />I forgot the weightings, but it shouldn’t matter, as everyone who enrols is pretty dedicated and gets A range (I think…).<br /><br />You’ll be expected to teach 2-3 sessions and participate in at least 2 CTFs. Doing well in the CTFs will provide Alex leverage and justification for better grading (when arguing against CSE). So make sure to stay sharp and learning. :)",
+        "comment_workload": "One thing I was concerned with before enrolling were the presentations. I get nervous when presenting… Fortunately, the presentations were delivered online (closed cam). Each student is expected to lecture 2-3 sessions and standby in 2-4 sessions to answer chat questions and provide assistance. Each session lasts for 1.5-2 hours. Even if you’re afraid of presenting, I would recommend you take the opportunity to practice teaching/communication, whilst having fun with the occasional CTF.<br /><br />I give workload a B-C, as preparing presentations + challenges consumes time.",
+        "rating_content": 5,
+        "rating_teaching": 5,
+        "rating_grading": 5,
+        "rating_workload": 4,
+        "has_midterm": false,
+        "has_final": false,
+        "has_quiz": false,
+        "has_assignment": false,
+        "has_essay": false,
+        "has_project": false,
+        "has_attendance": true,
+        "has_reading": false,
+        "has_presentation": true,
+        "upvote_count": 4,
+        "vote_count": 4,
+        "voted": false,
+        "is_upvote": false,
+        "comment_count": 1,
+        "attachments": []
+    },
+    {
+        "hash": "sDYKSvXrwbqdUVGDR5NcSZ58VqQIyjfm",
+        "semester": "2024-25 Fall",
+        "instructors": [
+            {
+                "id": 799,
+                "name": "LAM, Ngok",
+                "rating": 1
+            }
+        ],
+        "is_author": false,
+        "author": "ivanwong13768",
+        "date": "Jan 28, 2025",
+        "title": "Rare opportunity to teach, design challenges, and participate in CTFs with other experienced students",
+        "comment_content": "This course is pretty similar to COMP3071 and robotics team&#039;s ENGG396x series, in the sense that you are given credits for contributing to a school team. You are not expected to passively learn from the course, so I would suggest you think this course as 2 free credits, and you are actually playing for the Firebird CTF team instead. However, I would assume that if you are looking at this review, you are probably very interested and dedicated to CTF and Firebird to the point that you would like to sacrifice like 2 hours each week for the team (sounds like a religion which is kinda scary but trust me it feels good (this is not drugs (trust me bro))), so this &quot;suggestion&quot; would not really matter.<br /><br />As one of the 8 helpers each year, you will be required to do 2 things. Firstly, helpers will join a few (like 1-2) very large CTFs in Hong Kong as 2 teams. HKCERT CTF is a must basically every year, and there might be a few more CTFs which results will be used in the grade bargaining process. This year we joined HKCERT CTF and PwC Hackaday (which a certain CSE professor who is not Alex banned us from &quot;officially&quot; representing UST), in both of which we got excellent results. These competitions are very precious in the sense that you gain experience of joining on-site CTF competitions, collaborating with your fellow helpers, and meeting and sharing with other universities&#039; CTF players (and possibly earning a lot of prizes and adding a bunch of stuff in your CV).<br /><br />Secondly, if you look at the course schedule, you will find out that this course&#039;s timeslot always 100% overlaps with COMP2633. This is completely intentional, as you will be attending the same zoom meeting with COMP2633 students. However, while they are the ones listening, you will be the one teaching them. You are expected to teach 2 sessions, but might have to teach a few more depending on what categories your year&#039;s helpers play. This is a very rare opportunity to participate in the teaching process which is something that you have probably not done before (unless you have had some tutoring jobs before), and you can gain much confidence and experience after this. If you really like designing, this is also a chance for you to make your own challenges for the first time, and actually becoming an experienced CTF player.<br /><br />Definitely consider enrolling into the course if you are invited, this is a literally once-in-a-lifetime opportunity that you will never get again if you missed it. (You can only become a helper in the same year as becoming a core member)",
+        "comment_teaching": "Same as COMP3633, Alex is not teaching in this course. You are the one who teach COMP2633, so there is virtually nothing I can write for the teaching part. However, there are weekly meetings for demonstrating your COMP2633 presentation in front of Alex and other helpers, organizing Firebird CTF, etc. that lasts for an entire year. Although this course will be finished in the fall semester, your duty actually carries over to the spring semester, where you will be the one grading new COMP3633 students&#039; presentations.<br /><br />Alex, as we all know, is a very nice and friendly guy. He gives us a lot of freedom in teaching and organizing Firebird CTF, and is very willing to offer help and suggestions. Definitely a great professor &lt;3",
+        "comment_grading": "vow says he gets C range in most of the courses so I think the grading is one of the gradings of all time<br /><br /><br />(the grades were out for decades when I wrote this review, refer to TrebledJ&#039;s review for this part I don&#039;t want to be beaten up aaaaaa)",
+        "comment_workload": "As mentioned in the content part, all you have to do is to join a few CTFs (which is basically 0 workload considering you do not have to prepare anything) and teaching COMP2633 students. <br /><br />Compared to COMP3633 in which you have to make your own slides from scratch, you can inherit slides from previous years&#039; helpers, so all you really have to do is to review the slides, edit the parts that you think are not good enough (you can choose to not edit anything if you think the slides are good), and preparing yourself for presenting the slides. If you are used to presentations or have survived COMP3633 (which you must already have), you should not need to worry about that. Just treat these &quot;presentations&quot; as sharing what you know and learnt and stay casual, then you will easily survive the seemingly horrifying 2-hour teaching sessions.<br /><br />As to why my rating and TrebledJ&#039;s rating in workload are very different, please keep in mind that TrebledJ is the one who made all the reverse engineering slides from scratch. Compared to me who inherited his slides and only modified it a bit, it makes much sense that he would give a B-C while mine is a solid A.<br /><br />-----------<br /><br />To COMP2633 students looking at this review and wanting to complain about how &quot;bad&quot; the teaching method in COMP2633 is, I would have to say we really tried our best. Teaching time is very limited (4 hours per week is a VERY short amount of time even if it sounds like a lot) and there are many many things to learn in cybersecurity, so all we can do is to introduce you to some of the most basic techniques. You will have to self-learn to actually gain knowledge (and solve your homework), which is very different from the spoon-fed type of education you have had in other courses. This is how CTF works — you learn everything by yourself and apply those knowledge to solve difficult challenges ahead of you. There is no such thing called spoon-feeding in the CTF world considering that there are nearly infinite concepts, techniques, CVEs and challenge ideas, and there is no way one man can put all of them into their head. Each CTF is a process of self-learning, and this is what the real purpose of CTFs is — to encourage cybersecurity enthusiasts to keep learning in the neverending world of cybersecurity.<br /><br />If you still believe our teaching method is terrible, why not join us and change it all? You are the one who will be teaching after all, and we are all looking forward to see you in COMP4633.",
+        "rating_content": 5,
+        "rating_teaching": 5,
+        "rating_grading": 5,
+        "rating_workload": 5,
+        "has_midterm": false,
+        "has_final": false,
+        "has_quiz": false,
+        "has_assignment": false,
+        "has_essay": false,
+        "has_project": false,
+        "has_attendance": true,
+        "has_reading": false,
+        "has_presentation": true,
+        "upvote_count": 3,
+        "vote_count": 3,
+        "voted": false,
+        "is_upvote": false,
+        "comment_count": 0,
+        "attachments": []
+    }
+]

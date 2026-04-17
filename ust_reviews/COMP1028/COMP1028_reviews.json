@@ -1,0 +1,78 @@
+[
+    {
+        "hash": "2qygztzh55gxJRFhOTqR9gmbtZOVVekI",
+        "semester": "2025-26 Winter",
+        "instructors": [
+            {
+                "id": 99,
+                "name": "LAM, Gibson",
+                "rating": 1
+            }
+        ],
+        "is_author": false,
+        "author": "edwinCpu095",
+        "date": "Mar 10, 2026",
+        "title": "Output worthy for your work",
+        "comment_content": "The winter semester is totally online and self-paced , so it is highly flexible .(No need to go to UST haha)<br />The curriculum provides students completed 1021 but not 1023 to learn content in 1023 only. <br />Content: 1023 things not yet covered in 1021 , such as more on plot graph , np , pandas. Deeper in Concepts such as deep/shallow copy , library , import , regression, object compared with 1021.<br />Assignment per week , total of 4-5 task , counted towards daily grade from 10 -15%<br />Generally, the pace is nice for students do want to learn more in 1023 while also like relaxing and recharging in the winter break.In addition , this course can help students to fulfill requirement of Extended major of AI .I advice students to take in in winter , credits saved for spring&nbsp;&nbsp;^6^ ^7^<br />Only beware",
+        "comment_teaching": "Pretty good . For students in winter sem , in fact the only thing is to look at the powerpoints uppdated per week.&nbsp;&nbsp;&nbsp;Inside pretty much expanations of key concepts , such as object&nbsp;&nbsp;, library , etc. Vivid examples (sometimes funny enough) for one to follow. <br />One reminder: There are usually Some slides on practices regarding what you have learned&nbsp;&nbsp;(with answer ) . Great to look at them before actual assignment.<br />The prof is highly responsive. Once I have a question on the assignment and asked on email. Quick reply in 3 hours .",
+        "comment_grading": "Quite good for students , As Assignments are graded same as 1021 /1023 <br />Warning: Although AI can be used in your assign , practise etc. Remember first ,always understand the thing before attempt AI. AI is merely a tool for nice format , clear presentation. <br />In addition the exam might surprise you . First you may be shocked on how many things you need to remember( that&#039;s right 1021 guys this is a closed book one) . Next you will be surprised on how low scores but you can still have a pass yet.",
+        "comment_workload": "Not quite high. It should not be tough if you can keep track on the concepts . <br />One assignment per week, with about five to six task/ checkpoints that makes you follow on the trick<br />Usually , within 2 - 5 hours per assignment. If you are stuck with particular task , look at the slides/ practice there may have a clue. IF TOTALLY STUCK ON ALL PARTS, then you must have misunderstand / did not catch up .",
+        "rating_content": 4,
+        "rating_teaching": 4,
+        "rating_grading": 5,
+        "rating_workload": 4,
+        "has_midterm": false,
+        "has_final": true,
+        "has_quiz": false,
+        "has_assignment": false,
+        "has_essay": false,
+        "has_project": false,
+        "has_attendance": false,
+        "has_reading": false,
+        "has_presentation": false,
+        "upvote_count": 0,
+        "vote_count": 0,
+        "voted": false,
+        "is_upvote": false,
+        "comment_count": 0,
+        "attachments": []
+    },
+    {
+        "hash": "DDFhedrOYiJz7FzAyvTjsSFaAJqGDSD9",
+        "semester": "2025-26 Winter",
+        "instructors": [
+            {
+                "id": 99,
+                "name": "LAM, Gibson",
+                "rating": 1
+            }
+        ],
+        "is_author": false,
+        "author": "YALH",
+        "date": "Feb 06, 2026",
+        "title": "Shock absorber",
+        "comment_content": "This course includes stuff that is in COMP1023, but not in COMP1021,making it a bridging course for students who have taken COMP1021 but need to proceed&nbsp;&nbsp;to other higher-level COMP requirements. If you have not studied ICT in high school, you can still try on COMP1023 directly as I think you&#039;ll learn things more efficiently. However if you&#039;re not too confident in directly taking a hard computer course, taking COMP1021 then COMP1028 can allow you to have a more gentle introduction to programming, COMP1021+COMP1028 can act as a shock absorber to prevent knowledge from overloading your brain <br />1st week<br />Lecture 1: Introduction---basic components of computer <br />Lecture 2: Basic Programmign Language elements<br />Lecture 3: Collection type<br /><br />2nd week<br />Lecture 4: Functions<br />Lecture 5: Recursions<br />Lecture 6: Modules package libraries <br /><br />3rd week<br />Lecture 7: Object Oriented Programming <br />Lecture 8: NumPy<br /><br />4th week<br />Lecture 9: Pandas<br />Lecture 10: Matplotlib",
+        "comment_teaching": "This is a self-study course, material are put in Canvas and you are expected to self study 73-90 pages of notes a week, but I find it quite comfortable as I can study things on my own pace. Additionally, the notes are structured well, easy to follow the content. Also it&#039;s in Winter Semester in which considering its short period of time, you won&#039;t really take any other courses except for 1-credit courses like this, so you don&#039;t need to worry about other subjects. All you need to do is to focus on this course and also enjoy your time during the holiday without being too detach from or stressed&nbsp;&nbsp;by the academic stuff (most of the stuff in the last semester probably be forgotten after the Winter Break, so taking this course helps you to memorize stuff of COMP1021 even after the Winter Break).",
+        "comment_grading": "This course only has either pass(P) or fail(F)<br />Exams:(passing score:&gt;=40%)<br /><br />Assignment:(total score required for pass:&gt;=240)<br />Total: 4 assignments",
+        "comment_workload": "Considering it&#039;s a 1-credit course, the workload is quite large, but definitely not as much as a 3 credit course. 70+pages read within a week and 4 assignments hand in consecutively in 4 weeks(each week 1 assignment). Some of them are harder than others, but 2 of them are actually quite short.",
+        "rating_content": 5,
+        "rating_teaching": 4,
+        "rating_grading": 5,
+        "rating_workload": 4,
+        "has_midterm": false,
+        "has_final": true,
+        "has_quiz": false,
+        "has_assignment": true,
+        "has_essay": false,
+        "has_project": false,
+        "has_attendance": false,
+        "has_reading": true,
+        "has_presentation": false,
+        "upvote_count": 1,
+        "vote_count": 2,
+        "voted": false,
+        "is_upvote": false,
+        "comment_count": 0,
+        "attachments": []
+    }
+]
