@@ -1,5 +1,5 @@
-﻿rating_workload,has_midterm,has_final,has_quiz,has_assignment,has_essay,has_project,has_attendance,has_reading,has_presentation,course_name,level,upvote_ratio,insturctor_rating
-5,False,True,False,True,False,True,False,False,False,COMP4541,4000,,2
-3,False,True,False,True,False,True,False,False,False,COMP4541,4000,,2
-4,False,True,False,True,False,True,False,True,False,COMP4541,4000,1.0,11
-4,False,True,False,True,False,True,False,True,False,COMP4541,4000,1.0,11
+﻿rating_workload,rating_content,rating_teaching,rating_grading,has_midterm,has_final,has_quiz,has_assignment,has_essay,has_project,has_attendance,has_reading,has_presentation,course_name,level,upvote_ratio,insturctor_rating
+5,4,4,4,False,True,False,True,False,True,False,False,False,COMP4541,4000,,2
+3,3,1,1,False,True,False,True,False,True,False,False,False,COMP4541,4000,,2
+4,5,5,5,False,True,False,True,False,True,False,True,False,COMP4541,4000,1.0,11
+4,5,5,5,False,True,False,True,False,True,False,True,False,COMP4541,4000,1.0,11

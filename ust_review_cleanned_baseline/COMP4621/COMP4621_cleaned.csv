@@ -1,7 +1,7 @@
-﻿rating_workload,has_midterm,has_final,has_quiz,has_assignment,has_essay,has_project,has_attendance,has_reading,has_presentation,course_name,level,upvote_ratio,insturctor_rating
-5,True,True,False,True,False,True,False,False,False,COMP4621,4000,,11
-5,True,True,False,True,False,True,False,False,False,COMP4621,4000,1.0,11
-5,True,True,False,True,False,True,False,False,False,COMP4621,4000,1.0,11
-5,True,True,False,True,False,False,False,False,False,COMP4621,4000,0.6666666666666666,11
-5,True,True,False,True,False,False,False,False,False,COMP4621,4000,0.07692307692307693,11
-5,True,True,False,True,False,True,False,False,False,COMP4621,4000,1.0,0
+﻿rating_workload,rating_content,rating_teaching,rating_grading,has_midterm,has_final,has_quiz,has_assignment,has_essay,has_project,has_attendance,has_reading,has_presentation,course_name,level,upvote_ratio,insturctor_rating
+5,4,5,5,True,True,False,True,False,True,False,False,False,COMP4621,4000,,11
+5,3,5,5,True,True,False,True,False,True,False,False,False,COMP4621,4000,1.0,11
+5,4,5,5,True,True,False,True,False,True,False,False,False,COMP4621,4000,1.0,11
+5,5,5,5,True,True,False,True,False,False,False,False,False,COMP4621,4000,0.6666666666666666,11
+5,5,5,5,True,True,False,True,False,False,False,False,False,COMP4621,4000,0.07692307692307693,11
+5,4,4,4,True,True,False,True,False,True,False,False,False,COMP4621,4000,1.0,0

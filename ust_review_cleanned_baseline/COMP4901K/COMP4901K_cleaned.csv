@@ -1,2 +1,2 @@
-﻿rating_workload,has_midterm,has_final,has_quiz,has_assignment,has_essay,has_project,has_attendance,has_reading,has_presentation,course_name,level,upvote_ratio,insturctor_rating
-4,False,True,False,True,False,True,False,False,True,COMP4901K,4000,1.0,0
+﻿rating_workload,rating_content,rating_teaching,rating_grading,has_midterm,has_final,has_quiz,has_assignment,has_essay,has_project,has_attendance,has_reading,has_presentation,course_name,level,upvote_ratio,insturctor_rating
+4,5,5,4,False,True,False,True,False,True,False,False,True,COMP4901K,4000,1.0,0
