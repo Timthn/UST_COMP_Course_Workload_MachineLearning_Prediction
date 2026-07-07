@@ -1,7 +1,29 @@
 # UST Course Workload Prediction — Project README
 
-## Overview
-This repository contains the analysis pipeline and notebooks used to collect, clean, feature-engineer, and model student course reviews from UST (University) to predict perceived course workload. The project workflow is split into three stages: web scraping, data cleaning, and modeling (including NLP sentiment features).
+This is a machine learning predictive project focusing on the course workloads for Computer Science (COMP) courses at the Hong Kong University of Science and Technology (HKUST). This project aims to address the issue of insufficient course reviews on USTSPACE by building a classification model using online data to assist students in their course selection process.
+
+##  Problem Statement
+Course selection is crucial for every student, and they normally rely on USTSPACE to understand the workload and course rating. However, many courses lack sufficient reviews to provide a reliable reference. Our objective is to build a classification model to label the workload rating on a 1-5 scale (representing E to A) or into three bins: High, Medium, and Low, thereby facilitating better course selection.
+
+## Dataset
+* **Data Sources**: Raw JSON data was scraped from the UST Space website using Selenium, combined with instructor rating scores from the UST Ranking GitHub repository.
+* **Data Scale**: The dataset spans COMP courses from 2016 to 2026, yielding a cleaned dataset of 1,936 observations across 78 courses.
+* **Features**: The dataset contains 17 structured variables (e.g., boolean flags for midterm, final, assignments) and 4 text variables (free-text comments).
+
+##  Methodology & Technical Approach
+The project evolved through three main phases:
+* **Part1 1 (Data Collection & Cleaning)**: We utilized Selenium for scraping, cleaned the data tables, and filtered for English workload text to prepare for subsequent NLP analysis.
+* **Part 2 (Baseline Models)**: Initially, we trained One-vs-One (OVO) Logistic Regression, Random Forest, and Decision Tree models using only structured features. Correlation analysis revealed that all structured features had near-zero correlation with the actual workload score, resulting in a baseline accuracy of only about 35.6%.
+* **Part 3 (NLP Integration & Model Ensemble)**: We introduced TF-IDF and Truncated SVD to capture the semantics of the English comments. Ultimately, we deployed a Voting Classifier ensemble that combined XGBoost and OVO Logistic Regression.
+
+##  Key Results
+* **Accuracy Lift**: By incorporating NLP text features, the 5-class exact match accuracy improved from 35.6% to 43.9%.
+* **Binned Performance**: For the three-way binned mapping (High/Medium/Low), the overall accuracy reached 62.5%.
+* **Core Insights**: The model is reliable for distinguishing between light and heavy courses, though "medium workload" remains the hardest to predict. The results demonstrate that structural flags alone (like the presence of exams) do not capture how heavy a course feels; fusing structured features with NLP text semantics is essential for reliable predictions.
+
+## Future Work
+* Integrate Transformer-based models for more nuanced sentiment analysis.
+* Apply lemmatization to extract richer, less redundant TF-IDF terms.
 
 ## Repository Structure (high level)
 - `1.USTSPACE_web_scrab.ipynb` — Web scraping and raw data collection into `ust_reviews/`.
@@ -51,6 +73,7 @@ Adjust the list per the `import` cells at the top of each notebook.
 
 ## Contact / Authors
 Group 7 — Project for IEDA3560. For questions, open an issue or contact the project authors listed in the notebook headers.
+or connect via email: thnganaa@connect.ust.hk
 
 ---
 Last updated: May 2026
