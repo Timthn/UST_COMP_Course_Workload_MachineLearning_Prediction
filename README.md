@@ -12,7 +12,7 @@ Course selection is crucial for every student, and they normally rely on USTSPAC
 
 ##  Methodology & Technical Approach
 The project evolved through three main phases:
-* **Part1 1 (Data Collection & Cleaning)**: We utilized Selenium for scraping, cleaned the data tables, and filtered for English workload text to prepare for subsequent NLP analysis.
+* **Part1  (Data Collection & Cleaning)**: We utilized Selenium for scraping, cleaned the data tables, and filtered for English workload text to prepare for subsequent NLP analysis.
 * **Part 2 (Baseline Models)**: Initially, we trained One-vs-One (OVO) Logistic Regression, Random Forest, and Decision Tree models using only structured features. Correlation analysis revealed that all structured features had near-zero correlation with the actual workload score, resulting in a baseline accuracy of only about 35.6%.
 * **Part 3 (NLP Integration & Model Ensemble)**: We introduced TF-IDF and Truncated SVD to capture the semantics of the English comments. Ultimately, we deployed a Voting Classifier ensemble that combined XGBoost and OVO Logistic Regression.
 
